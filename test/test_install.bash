@@ -29,3 +29,4 @@ test-environment () {
 
 (test-arguments)
 (test-environment)
+true
